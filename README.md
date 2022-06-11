@@ -9,7 +9,9 @@
 
 <br>
 <br>
-
+<br>
+<br>
+ 
 <h1># :black_nib: things i code </h1>
 
 
@@ -25,6 +27,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <h1># :wrench: Cowork tools </h1>
 
@@ -35,6 +39,8 @@
 ![GIThub](https://img.shields.io/badge/-github-black?style=plastic=?style=for-the-badge&logo=github)
 ![NOTION](https://img.shields.io/badge/-notion-black?style=plastic=?style=for-the-badge&logo=notion)
 
+<br>
+<br>
 <br>
 <br>
 
