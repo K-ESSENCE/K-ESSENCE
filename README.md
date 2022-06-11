@@ -1,5 +1,5 @@
 
-<h1># 😊 제 페이지에 와주셔서 감사합니다 / hello! welcome to my page </h1>
+<h1 align="center"># 😊 제 페이지에 와주셔서 감사합니다 / hello! welcome to my page </h1>
 <b>JUNG SOO KIM ,FRONT-END DEVELOPER</b>
 <p> In my mind, I am developer. But in my heart, I am a user.</p>
  
