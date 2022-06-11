@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1># 😊 제 페이지에 와주셔서 감사합니다 <br>hello! welcome to my page </h1>
-<p b>JUNG SOO KIM ,FRONT-END DEVELOPER</b></p>
+<b> JUNG SOO KIM ,FRONT-END DEVELOPER</b>
 <p > In my mind, I am developer. But in my heart, I am a user.</p>
  
 
@@ -23,9 +23,23 @@
 ![NEXTJS](https://img.shields.io/badge/-nextjs-green?style=plastic=?style=for-the-badge&logo=next.js)
 
 
+<br>
+<br>
 
 <h1># :wrench: Cowork tools </h1>
-![GIT](https://img.shields.io/badge/-git-red?style=plastic=?style=for-the-badge&logo=git)
-![GIT](https://img.shields.io/badge/-git-red?style=plastic=?style=for-the-badge&logo=git)
+
+
+![GIT](https://img.shields.io/badge/-git-black?style=plastic=?style=for-the-badge&logo=git)
+![SLACK](https://img.shields.io/badge/-slack-black?style=plastic=?style=for-the-badge&logo=slack)
+![TRELLO](https://img.shields.io/badge/-trello-black?style=plastic=?style=for-the-badge&logo=trello)
+![GIThub](https://img.shields.io/badge/-github-black?style=plastic=?style=for-the-badge&logo=github)
+![NOTION](https://img.shields.io/badge/-notion-black?style=plastic=?style=for-the-badge&logo=notion)
+
+<br>
+<br>
+
+<h1> :chart_with_upwards_trend: Git hub Status </h1>
+
+![MAGHC's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGHC&show_icons=true&theme=radical)
 
 </div>
