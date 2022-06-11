@@ -1,5 +1,9 @@
 
 <div align="center">
+
+ 
+ 
+ 
 <h1># 😊 제 페이지에 와주셔서 감사합니다 <br>hello! welcome to my page </h1>
 <b> JUNG SOO KIM ,FRONT-END DEVELOPER</b>
 <p > In my mind, I am developer. But in my heart, I am a user.</p>
@@ -9,8 +13,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
  
 <h1># :black_nib: things i code </h1>
 
@@ -27,8 +30,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 <h1># :wrench: Cowork tools </h1>
 
@@ -41,8 +43,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 <h1> #:chart_with_upwards_trend: Git hub Status </h1>
 
