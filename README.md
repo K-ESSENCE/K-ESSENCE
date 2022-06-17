@@ -51,6 +51,6 @@
  
  
  <h1></h1>
- ![MAGHC's Lang's]github-readme-stats.vercel.app/api/top-langs/?username={MAGHC}&langs_count=8
+ ![MAGHC's Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=MAGHC &layout=compact&theme=tokyonight)
 
 </div>
