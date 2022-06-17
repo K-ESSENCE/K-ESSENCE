@@ -48,5 +48,9 @@
 <h1> #:chart_with_upwards_trend: Git hub Status </h1>
 
 ![MAGHC's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAGHC&show_icons=true&theme=radical)
+ 
+ 
+ <h1></h1>
+ ![MAGHC's Lang's]github-readme-stats.vercel.app/api/top-langs/?username={MAGHC}&langs_count=8
 
 </div>
