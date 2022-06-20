@@ -2,9 +2,10 @@
 <div align="center">
 
  
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MAGHC&fontSize=90)
  
  
-<h1># 😊 제 페이지에 와주셔서 감사합니다 <br>hello! welcome to my page </h1>
+<h1># 🎬 제 페이지에 와주셔서 감사합니다 <br>hello! welcome to my page </h1>
 <b> JUNG SOO KIM ,FRONT-END DEVELOPER</b>
 <p > In my mind, I am developer. But in my heart, I am a user.</p>
  
