@@ -8,7 +8,8 @@
 <h1># 🎬 제 페이지에 와주셔서 감사합니다 <br>hello! welcome to my page </h1>
 <b> JUNG SOO KIM ,FRONT-END DEVELOPER</b>
 <p > In my mind, I am developer. But in my heart, I am a user.</p>
- 
+<p>마법 철자 몰라서 MAGHC이라고 한거 아닙니다! magic 과 비슷해서 노린것도있지만 <br>
+좋아하는 것들 앞글자 따서 MUSIC / ANIMATION / GAME / HUMOR / CARTOON  MAGHC!</p> 
 
 
 
