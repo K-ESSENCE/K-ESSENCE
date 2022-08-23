@@ -61,6 +61,9 @@
 <br>
 <br>
 
+<h1>Rank</h1>
+<a href="https://opgc.me/#/users/MAGHC" target="_blank"><img src="https://api.opgc.me/githubs/users/MAGHC/tag/?theme=basic" /></a>
+
 
 <h1> #:chart_with_upwards_trend: Git hub Status </h1>
 
