@@ -40,9 +40,10 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-javascript-blue?style=plastic=?style=for-the-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/-react-blue?style=plastic=?style=for-the-badge&logo=react)
 ![NODE.JS](https://img.shields.io/badge/-node.js-green?style=plastic=?style=for-the-badge&logo=Node.js)
+![EXPRESS](https://img.shields.io/badge/-express-green?style=plastic=?style=for-the-badge&logo=express)
 ![SASS](https://img.shields.io/badge/-sass-green?style=plastic=?style=for-the-badge&logo=sass)
 ![TYPESCRIPT](https://img.shields.io/badge/-typescript-green?style=plastic=?style=for-the-badge&logo=typescript)
-![FIREBASE](https://img.shields.io/badge/-firebase-green?style=plastic=?style=for-the-badge&logo=firebase)
+![FIREBASE](https://img.shields.io/badge/-firebase-black?style=plastic=?style=for-the-badge&logo=firebase)
 ![STYLEDCOMPONENT](https://img.shields.io/badge/-styledcomponents-black?style=plastic=?style=for-the-badge&logo=styled-components)
 
 <br>
