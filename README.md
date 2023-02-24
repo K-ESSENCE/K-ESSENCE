@@ -44,6 +44,8 @@
 ![TYPESCRIPT](https://img.shields.io/badge/-typescript-green?style=plastic=?style=for-the-badge&logo=typescript)
 ![FIREBASE](https://img.shields.io/badge/-firebase-black?style=plastic=?style=for-the-badge&logo=firebase)
 ![STYLEDCOMPONENT](https://img.shields.io/badge/-styledcomponents-black?style=plastic=?style=for-the-badge&logo=styled-components)
+  ![TAILWINDCSS](https://img.shields.io/badge/-tailwindcss-black?style=plastic=?style=for-the-badge&logo=tailwindcss)
+ ![NEXT.JS](https://img.shields.io/badge/-nextjs-black?style=plastic=?style=for-the-badge&logo=next.js)
 
 <br>
 <br>
