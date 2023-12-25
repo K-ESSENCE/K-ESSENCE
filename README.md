@@ -15,12 +15,14 @@
 
 
 
-<h1> 2023년 주요 개인 focus & 목표  </h1>
+<h1> 2024년 주요 개인 focus & 목표  </h1>
 
-<p> 좀 더 좋은 소통 과 문서 작성, 좋은 코딩을 위한 아키텍쳐 , 설계</p>
-<p> Next JS </p>
-<p> CDD,TDD 개발론 학습 및 적용 </p>
+<p> 좀 더 좋은 소통 과 문서 작성, 좋은아키텍쳐 , 설계</p>
+<p> 기본기 탄탄히. 운영체제와 알고리즘 , 자료구조  </p>
+<p> 유니크해지기 디자인과 백엔드. </p>
 <p> 테스트코드를 통한 자동화  </p>
+<p> 성실 기반 여유 갖기  </p>
+
 
 <br>
 <br>
@@ -56,6 +58,7 @@
 ![TRELLO](https://img.shields.io/badge/-trello-black?style=plastic=?style=for-the-badge&logo=trello)
 ![GIThub](https://img.shields.io/badge/-github-black?style=plastic=?style=for-the-badge&logo=github)
 ![NOTION](https://img.shields.io/badge/-notion-black?style=plastic=?style=for-the-badge&logo=notion)
+![CLICKUP](https://img.shields.io/badge/-clickUp-black?style=plastic=?style=for-the-badge&logo=clickup)
 
 <br>
 <br>
