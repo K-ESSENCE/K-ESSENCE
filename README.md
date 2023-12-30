@@ -18,9 +18,10 @@
 <h1> 2024년 주요 개인 focus & 목표  </h1>
 
 <p> 좀 더 좋은 소통 과 문서 작성, 좋은아키텍쳐 , 설계</p>
+<p> AWS, 서버리스 </p>
 <p> 기본기 탄탄히. 운영체제와 알고리즘 , 자료구조  </p>
-<p> 유니크해지기 디자인과 백엔드 </p>
-<p> 테스트코드를 통한 자동화  </p>
+<p> 디자인과 백엔드, AI </p>
+<p> 테스트코드, CICD,  자동화  </p>
 <p> 성실 기반 여유 갖기  </p>
 
 
@@ -30,7 +31,7 @@
  
 
  
-<h1># :black_nib: things i code </h1>
+<h1># :black_nib: Things i code </h1>
 
 
 ![HTML5](https://img.shields.io/badge/-html5-blue?style=plastic=?style=for-the-badge&logo=html5)
@@ -62,6 +63,18 @@
 
 <br>
 <br>
+
+
+<h1># Deploy </h1>
+
+![NETLIFY](https://img.shields.io/badge/-netlify-black?style=plastic=?style=for-the-badge&logo=netlify)
+![AWS](https://img.shields.io/badge/-aws-black?style=plastic=?style=for-the-badge&logo=amazon-aws)
+![VERCEL](https://img.shields.io/badge/-vercel-black?style=plastic=?style=for-the-badge&logo=vercel)
+
+
+<br>
+<br>
+
 
 
 <h1> #:chart_with_upwards_trend: Git hub Status </h1>
