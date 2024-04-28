@@ -60,6 +60,7 @@
 ![GIThub](https://img.shields.io/badge/-github-black?style=plastic=?style=for-the-badge&logo=github)
 ![NOTION](https://img.shields.io/badge/-notion-black?style=plastic=?style=for-the-badge&logo=notion)
 ![CLICKUP](https://img.shields.io/badge/-clickUp-black?style=plastic=?style=for-the-badge&logo=clickup)
+![JIRA](https://img.shields.io/badge/-jira-black?style=plastic=?style=for-the-badge&logo=jira)
 
 <br>
 <br>
