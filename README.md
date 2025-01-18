@@ -4,8 +4,6 @@
  
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MAGHC&fontSize=90)
  
- 
-<h1># 🎬 제 페이지에 와주셔서 감사합니다 <br>hello! welcome to my page </h1>
 <b> JUNG SOO KIM ,FRONT-END DEVELOPER</b>
 <p > In my mind, I am developer. But in my heart, I am a user.</p>
 
@@ -15,14 +13,14 @@
 
 
 
-<h1> 2024년 주요 개인 focus & 목표  </h1>
+<h1> 2025년 주요 개인 focus & 목표  </h1>
 
 <p> 좀 더 좋은 소통 과 문서 작성, 좋은아키텍쳐 , 설계</p>
-<p> AWS, 서버리스 </p>
+<p> AWS, GCP </p>
 <p> 기본기 탄탄히. 운영체제와 알고리즘 , 자료구조  </p>
-<p> 디자인과 백엔드, AI </p>
+<p> 코드역량적 표현력기르기, 백엔드, AI </p>
 <p> 테스트코드, CICD,  자동화  </p>
-<p> 성실 기반 여유 갖기  </p>
+<p> 영역확장, T자형 인재 , 성실 기반 여유 갖기  </p>
 
 
 <br>
@@ -77,15 +75,6 @@
 <br>
 <br>
 
-
-
-<h1> #:chart_with_upwards_trend: Git hub Status </h1>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAGHC&layout=compact&theme=tokyonight)
-
  
- 
- 
-
 
 </div>
