@@ -4,7 +4,7 @@
  
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=INTEGER&fontSize=90)
  
-<b> JUNG SOO KIM ,FRONT-END DEVELOPER</b>
+<b> JUNG SOO KIM  SOFTWARE ENGINEER </b>
 <p > In my mind, I am developer. But in my heart, I am a user.</p>
 
 
