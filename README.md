@@ -44,6 +44,7 @@
 ![STYLEDCOMPONENT](https://img.shields.io/badge/-styledcomponents-black?style=plastic=?style=for-the-badge&logo=styled-components)
   ![TAILWINDCSS](https://img.shields.io/badge/-tailwindcss-black?style=plastic=?style=for-the-badge&logo=tailwindcss)
  ![NEXT.JS](https://img.shields.io/badge/-nextjs-black?style=plastic=?style=for-the-badge&logo=next.js)
+  ![NEST.JS](https://img.shields.io/badge/-nestjs-black?style=plastic=?style=for-the-badge&logo=nest.js)
   ![DOCKER](https://img.shields.io/badge/-docker-black?style=plastic=?style=for-the-badge&logo=docker)
 
 <br>
@@ -70,6 +71,14 @@
 ![NETLIFY](https://img.shields.io/badge/-netlify-black?style=plastic=?style=for-the-badge&logo=netlify)
 ![AWS](https://img.shields.io/badge/-aws-black?style=plastic=?style=for-the-badge&logo=amazon-aws)
 ![VERCEL](https://img.shields.io/badge/-vercel-black?style=plastic=?style=for-the-badge&logo=vercel)
+
+
+<h1># AI </h1>
+
+claudecode
+antigravity
+codex
+cursor
 
 
 <br>
