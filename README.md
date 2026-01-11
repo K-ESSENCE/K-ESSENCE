@@ -67,7 +67,8 @@
 claudecode ,
 antigravity ,
 codex ,
-cursor
+cursor , 
+gemini cli 
 
 
 <br>
